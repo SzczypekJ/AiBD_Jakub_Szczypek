@@ -4,10 +4,10 @@
 
 Pierwszym zadaniem było wybranie swojego zbioru do analizy. Zbiór wybierało się na podstawie sumy liter w imieniu i nazwisku.
 U mnie zbiorem, który analizowałem jest zbiór o nazwie "13_WARMIN╠üSKO-MAZURSKIE" (Jakub Szczypek - 13 liter). Następnie utworzyłem 4 foldery o nazwach:
--AnalysisData
--CommandFiles
--Documents
--OriginalData
+- AnalysisData
+- CommandFiles
+- Documents
+- OriginalData
 
 ---------------
 **AnalysisData**
